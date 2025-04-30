@@ -1,0 +1,7 @@
+name = "clearwater"
+type = "javascript"
+
+account_id = "38cd4eb5d05cfcb67c290b76df65e065"
+workers_dev = true
+compatibility_date = "2025-04-30"
+main = "worker.js"
